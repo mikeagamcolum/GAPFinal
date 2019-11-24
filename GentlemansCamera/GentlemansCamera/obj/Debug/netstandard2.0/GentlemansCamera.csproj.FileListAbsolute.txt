@@ -1,0 +1,14 @@
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\bin\Debug\netstandard2.0\GentlemansCamera.deps.json
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\bin\Debug\netstandard2.0\GentlemansCamera.dll
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\bin\Debug\netstandard2.0\ref\GentlemansCamera.dll
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\bin\Debug\netstandard2.0\GentlemansCamera.pdb
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\GentlemansCamera.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\GentlemansCamera.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\GentlemansCamera.AssemblyInfo.cs
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\GentlemansCamera.dll
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\ref\GentlemansCamera.dll
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\GentlemansCamera.pdb
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\Views\Camera.xaml.g.cs
+C:\Users\Mike\source\repos\GentlemansCamera\GentlemansCamera\GentlemansCamera\obj\Debug\netstandard2.0\XamlC.stamp

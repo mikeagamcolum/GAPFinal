@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/fdorms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GentlemansCamera.Views.Camera"
+             BackgroundColor="LightGray"
+             Title="The Gentleman's Camera">
+    <ContentPage.Content Visual="Material">
+        <StackLayout>
+            <Button Text="Test Button Please Ignore" Margin="15"/>
+            <Slider Scale="1" Margin="20"></Slider>
+            <Label Text="This is a testing text. It exists to test the text." HorizontalTextAlignment="Center"></Label>
+            <Switch IsToggled="false" Margin="10"/>
+            <TimePicker></TimePicker>
+            <Button Text="Very Pretty Colorful Button" BackgroundColor="Accent" TextColor="White" Margin="30"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
