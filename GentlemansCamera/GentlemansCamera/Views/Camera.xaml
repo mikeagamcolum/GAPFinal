@@ -6,15 +6,14 @@
              mc:Ignorable="d"
              x:Class="GentlemansCamera.Views.Camera"
              BackgroundColor="LightGray"
-             Title="The Gentleman's Camera">
+             Title="The Thieves Gallery">
     <ContentPage.Content Visual="Material">
         <StackLayout>
-            <Button Text="Test Button Please Ignore" Margin="15"/>
-            <Slider Scale="1" Margin="20"></Slider>
-            <Label Text="This is a testing text. It exists to test the text." HorizontalTextAlignment="Center"></Label>
-            <Switch IsToggled="false" Margin="10"/>
-            <TimePicker></TimePicker>
-            <Button Text="Very Pretty Colorful Button" BackgroundColor="Accent" TextColor="White" Margin="30"/>
+            <Image Source="" TranslationY="75" Margin="15"/>
+            <Editor Placeholder="Encoded Message" Margin="15" TranslationY="100" HeightRequest="200"/>
+            <Button Text="Open Image" BackgroundColor="LightSlateGray" TextColor="White" WidthRequest="200" TranslationY="100" HeightRequest="50" HorizontalOptions="Center"/>
+            <Button Text="Implement Message" BackgroundColor="Accent" TextColor="White" TranslationY="100" Margin="20" WidthRequest="300" HeightRequest="60" HorizontalOptions="Center"/>
+            <Entry Placeholder="Encryption Key" Text="" Margin="10" VerticalOptions="End" TranslationY="100"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -15,6 +15,7 @@ namespace GentlemansCamera.Views
         public Camera()
         {
             InitializeComponent();
+           // ImageSource.FromResource("template.png");
         }
     }
 }
